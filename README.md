@@ -2,6 +2,12 @@
 
 Built a User Management System — a full-stack MERN web application that manages user accounts with different roles and permissions.  
 
+## 🎬 Demo
+
+https://github.com/<your-username>/<your-repo>/assets/demo.mp4
+or 
+<video src="assets" controls width="100%"></video>
+
 ## The system supports:  
 - Secure user authentication  
 - Role-based authorization (RBAC)  
@@ -94,4 +100,9 @@ User has only access to see his/her own profile and edit their own profile.
 # 7. Deployment  
 
 - backend  
-- frontend  
+- frontend
+
+
+
+
+### ⚙️ Installation & Setup

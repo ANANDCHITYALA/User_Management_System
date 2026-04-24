@@ -30,8 +30,5 @@ This is the backend API for the User Management System, built with Node.js and E
 - MongoDB (or your database)
 - JWT for authentication
 
-## Contributing
-Please read the contributing guidelines before making changes.
-
 ## License
 This project is licensed under the MIT License.

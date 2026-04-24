@@ -4,7 +4,7 @@ Built a User Management System — a full-stack MERN web application that manage
 
 ## 🎬 Demo
 
-https://github.com/ANANDCHITYALA/User_Management_System/blob/main/user_management_system_demo_video%20(1).mp4
+[watch demo](https://github.com/user-attachments/assets/3f667962-1554-4e82-833c-384f9ac53030)
 
 
 ## The system supports:  

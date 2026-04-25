@@ -98,10 +98,9 @@ User has only access to see his/her own profile and edit their own profile.
 
 # 7. Deployment  
 
-- backend  
-- frontend
+- frontend: https://user-management-system-pi-orpin.vercel.app/login
+- backend: https://user-management-system-6qy3.onrender.com/ 
 
-
-
-
-### ⚙️ Installation & Setup
+  - Username:admin@example.com
+  - Password: 123456
+    

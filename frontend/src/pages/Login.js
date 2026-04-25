@@ -15,7 +15,8 @@ const getErrorMessage = (err, fallback) => {
   }
 
   // This handles network errors when the backend server is not reachable.
-  if (err.request) return "Backend is not reachable. Start the backend server on http://localhost:5000 and try again.";
+  if (err.request) return "Check your credentials and try again.";
+  //instead of this "Backend is not reachable. Start the backend server on http://localhost:5000 and try again" we used this "Check your credentials and try again."
 
   // This returns the fallback when no better message exists.
   return fallback;
